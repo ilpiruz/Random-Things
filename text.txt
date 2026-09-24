@@ -1,0 +1,8 @@
+Informativa sulla Privacy (Privacy Policy)
+Titolare del trattamento: Sviluppatore indipendente
+
+Dati raccolti: Questa estensione per Twitch non raccoglie, memorizza o elabora alcun dato personale o sensibile degli utenti che la utilizzano.
+
+Finalità: L'estensione ha il solo scopo di mostrare un'interfaccia interattiva con immagini all'interno della pagina del canale Twitch.
+
+Contatti: Per qualsiasi domanda relativa alla privacy, puoi contattare lo sviluppatore tramite la pagina del canale Twitch.
